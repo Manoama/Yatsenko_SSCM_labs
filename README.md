@@ -1,2 +1,2 @@
-# Laba1
-My first laba in СРОМ
+# Laba1-4
+Code of my labs in SROM
