@@ -1,3 +1,4 @@
+# SSCM - Special sections of computational mathematics
 There are mathematical algorithms for operating with "big" numbers (number that don't fit in 64-bit register).
 
 # Laba1-4
